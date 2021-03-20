@@ -1,0 +1,10 @@
+tmp/
+
+*-bak
+
+fp-info-cache
+
+*.dsn
+*.rules
+
+*.pyc
