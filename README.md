@@ -9,3 +9,8 @@ There are gerber files in [gerver/r1-jlcpcb-r1](gerver/r1-jlcpcb-r1) directory. 
 produce PCB to [JLCPCB](https://jlcpcb.com/) or similar manufacturers.
 
 NOTE: I just ordered, so not verified to work physically yet.
+
+## Rendered Images
+
+![KiCad rendered image](./images/render-kicad.png)
+![JLCPCB rendered image](./images/render-jlcpcb-y.png)
